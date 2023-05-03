@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+/* hide the pointers from palmPointers Plugin since we're drawing hands on canvas */
+.handsfree-pointer {display: none !important}
+
+.handsfree-debugger {opacity: 0.25 !important}
