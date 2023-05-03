@@ -38,9 +38,9 @@ let prevPointer = [
 let fingertips = [8, 12, 16, 20];
 
 function setup() {
-  sketch = createCanvas(640, 480);
+  sketch = createCanvas(1500, 600);
   video = createCapture(VIDEO);
-  video.size(640, 480);
+  video.size(1500, 600);
 
   backgroundSound.loop();
 
