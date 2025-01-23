@@ -1,6 +1,6 @@
 # p5-Theremin-Drawer
 
-hey guys 💅💅💅
+hey guys
 
 to use this, basically just move your hands around and figure it out!!
 
